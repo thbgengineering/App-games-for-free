@@ -23,6 +23,7 @@ export const FEATURES: Feature[] = [
 
 export const APP_DETAILS = {
   name: 'Glam Makeup',
+  name1: 'Games For Free',
   rating: 4.7,
   downloads: '1,350,000+',
   description: 'Step into the world of beauty and creativity with Games for free. Style characters with stunning makeup, trendy hairstyles, and fashionable accessories. Perfect for players who love creativity, fashion, and fun!',

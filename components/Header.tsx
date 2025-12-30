@@ -12,7 +12,7 @@ const Header: React.FC = () => {
             <Palette className="text-white w-6 h-6" />
           </div>
           <h1 className="text-lg font-bold bg-clip-text text-transparent bg-gradient-to-r from-pink-600 to-purple-600">
-            {APP_DETAILS.name}
+            {APP_DETAILS.name1}
           </h1>
         </div>
         <button className="text-gray-400 hover:text-pink-500 transition-colors">
